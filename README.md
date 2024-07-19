@@ -1,16 +1,14 @@
-# assignmentloginandsignup
+# Flutter Login and Signup Project
 
-A new Flutter project.
+This project is a Flutter application that includes a login page, a signup page, and a dashboard. This project was created as part of a company's assignment.
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
+- **Login Page:** Allows users to log in with their credentials.
+- **Signup Page:** Allows new users to create an account.
+- **Dashboard:** A protected area that is accessible only to authenticated users.
 
-A few resources to get you started if this is your first Flutter project:
+## Project Structure
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+The project is organized as follows:
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
